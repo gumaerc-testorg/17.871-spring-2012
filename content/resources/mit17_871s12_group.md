@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding group projects assignment
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-871-political-science-laboratory-spring-2012/d862acdc23397585cf188e185737cabc_MIT17_871S12_Group.pdf
+file: /media/courses/17-871-political-science-laboratory-spring-2012/d862acdc23397585cf188e185737cabc_MIT17_871S12_Group.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '17.871 Political Science Laboratory: Group Projects Assignment'
 uid: d862acdc-2339-7585-cf18-8e185737cabc

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: dba159d0-ca28-1e04-60e4-bb90c390f4ed
 ---
@@ -49,7 +52,7 @@ No readings
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to STATA®
+Introduction to STATA{{< sup "®" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -64,7 +67,7 @@ Introduction to STATA®
 
 "Creating and Changing Variables." Chapter 5 in \[Kohler\].
 
-[How to Use the STATA® infile and infix commands. (PDF)]({{< baseurl >}}/resources/mit17_871s12_statinfilefix)
+[How to Use the STATA{{< sup "®" >}} infile and infix commands. (PDF)]({{< baseurl >}}/resources/mit17_871s12_statinfilefix)
 
 
 {{< tdclose >}}
@@ -88,7 +91,7 @@ Descriptive statistics I
 
 "Describing and Comparing Distributions." Chapter 7 in \[Kohler\].
 
-[How to Use the STATA® 'merge' command. (PDF)]({{< baseurl >}}/resources/mit17_871s12_statamerge)
+[How to Use the STATA{{< sup "®" >}} 'merge' command. (PDF)]({{< baseurl >}}/resources/mit17_871s12_statamerge)
 
 ### Suggested Reading:
 

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-871-political-science-laboratory-spring-2012/08bad3fa60aa223b730df87d6a0df32c_MIT17_871S12_STATAExerci.zip
+file: /media/courses/17-871-political-science-laboratory-spring-2012/08bad3fa60aa223b730df87d6a0df32c_MIT17_871S12_STATAExerci.zip
 file_type: application/zip
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Other
 title: MIT17_871S12_STATAExerci.zip
 uid: 08bad3fa-60aa-223b-730d-f87d6a0df32c
