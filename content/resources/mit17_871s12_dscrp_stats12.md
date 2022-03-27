@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 412b51f8-5d52-6b43-f48e-173def87e70a
 resourcetype: Document
 title: '17.871 Political Science Lab Lecture Slides: Descriptive Stats'
 uid: 937d9591-1596-6ee0-42ca-3cbef737d137

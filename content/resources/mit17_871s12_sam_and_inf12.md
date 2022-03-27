@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 412b51f8-5d52-6b43-f48e-173def87e70a
 resourcetype: Document
 title: '17.871 Political Science Lab Lecture Slides: Sampling And Inference'
 uid: 44b71759-c4c5-c1c8-780d-93119ae3ee1f

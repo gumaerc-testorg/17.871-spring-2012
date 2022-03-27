@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 0c73ce57-98e0-3ff1-97f1-20cc7caae2d7
 resourcetype: Document
 title: '18.871 Political Science Laboratory: How To Use the STATA infile and infix
   Commands'

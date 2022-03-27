@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 846e4c0f-b93a-c5be-d4cc-8ea768b09826
 resourcetype: Document
 title: '17.871 Political Science Laboratory: Final Project Assignment'
 uid: 9364027a-61e7-c16f-101a-675c19fc4935

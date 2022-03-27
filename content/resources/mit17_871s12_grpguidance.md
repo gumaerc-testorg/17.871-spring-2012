@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 846e4c0f-b93a-c5be-d4cc-8ea768b09826
 resourcetype: Document
 title: '17.871 Political Science Laboratory: Group Projects-Further Guidance'
 uid: da7dcf6d-33da-b1aa-1a69-5bfcfa5b37d4
