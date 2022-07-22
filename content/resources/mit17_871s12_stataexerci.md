@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-871-political-science-laboratory-spring-2012/08bad3fa60aa223b730df87d6a0df32c_MIT17_871S12_STATAExerci.zip
+file: /courses/17-871-political-science-laboratory-spring-2012/08bad3fa60aa223b730df87d6a0df32c_MIT17_871S12_STATAExerci.zip
 file_type: application/zip
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
