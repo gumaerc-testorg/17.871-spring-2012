@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f904cd1d-6364-28a0-9b6e-7ab4358dc8ec
 ---
@@ -37,7 +39,7 @@ Introduction
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to STATA®
+Introduction to STATA{{< sup "®" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 1 handed out
