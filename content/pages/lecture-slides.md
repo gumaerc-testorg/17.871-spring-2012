@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides selected lecture slides from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to STATA® (PDF)]({{< baseurl >}}/resources/mit17_871s12_01introtostat)
+{{% resource_link 9042d745-5413-806e-19bf-7b1e7a917638 "Introduction to STATA® (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ TOPICS
 3 and 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Descriptive statistics (PDF)]({{< baseurl >}}/resources/mit17_871s12_dscrp_stats12)
+{{% resource_link 937d9591-1596-6ee0-42ca-3cbef737d137 "Descriptive statistics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ TOPICS
 6–7
 {{< tdclose >}}
 {{< tdopen >}}
-[Bivariate relationships (PDF)]({{< baseurl >}}/resources/mit17_871s12_bivarat_reg12)
+{{% resource_link 5f1f6f31-5c9f-02cf-6e4f-d397d707a76b "Bivariate relationships (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ TOPICS
 8–9
 {{< tdclose >}}
 {{< tdopen >}}
-[Multiple regression (PDF - 2.3MB)]({{< baseurl >}}/resources/mit17_871s12_mulreg_12ver2)
+{{% resource_link ec130633-b360-896e-545e-387d7b147247 "Multiple regression (PDF - 2.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ TOPICS
 13–14
 {{< tdclose >}}
 {{< tdopen >}}
-[Sampling and inference (PDF)]({{< baseurl >}}/resources/mit17_871s12_sam_and_inf12)
+{{% resource_link 44b71759-c4c5-c1c8-780d-93119ae3ee1f "Sampling and inference (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,4 +73,4 @@ TOPICS
 
 ### Additional Lecture Slides
 
-[Race and voting in Florida (PDF)]({{< baseurl >}}/resources/mit17_871s12_racndvotg_flo)
+{{% resource_link 8ef52bde-ff12-7126-cfcd-73e376c5d2c3 "Race and voting in Florida (PDF)" %}}
