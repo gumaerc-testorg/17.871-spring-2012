@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding introduction assignment.
 file: /courses/17-871-political-science-laboratory-spring-2012/d94ea645be612a8ca683f496fff20cc8_MIT17_871S12_Intro.pdf
+file_size: 161880
 file_type: application/pdf
 learning_resource_types:
 - Assignments
