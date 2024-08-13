@@ -1,14 +1,13 @@
 ---
 content_type: page
 description: This section provides links to data and research sites.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: b7f7f4fa-c2ce-f145-860a-773d76f0fc46
 ---
-
-Data Sites
-----------
+## Data Sites
 
 [Harvard-MIT Data Center](http://hmdc.harvard.edu/)
 
@@ -38,8 +37,6 @@ Data Sites
 
 [Budget of the United States Government](http://www.gpo.gov/fdsys/browse/collectionGPO.action?collectionCode=BUDGET)
 
-[FedStats](http://fedstats.sites.usa.gov/), an index to federal agency statistics on line
-
 [USDA National Agriculture Statistics Service](http://www.nass.usda.gov/)
 
 [IES National Center for Education Statistics](http://nces.ed.gov/)
@@ -58,8 +55,7 @@ Data Sites
 
 [American National Election Studies (ANES)](http://www.electionstudies.org/), for information about public opinion studies
 
-Research Links
---------------
+## Research Links
 
 [MIT Libraries](http://libraries.mit.edu/)
 
