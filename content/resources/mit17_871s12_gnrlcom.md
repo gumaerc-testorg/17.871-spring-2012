@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding group project comments
-file: /courses/17-871-political-science-laboratory-spring-2012/77ab95d489e5a1e477689b2998f8774a_MIT17_871S12_GnrlCom.pdf
+file: /ol-ocw-studio-app/courses/17-871-political-science-laboratory-spring-2012/77ab95d489e5a1e477689b2998f8774a_MIT17_871S12_GnrlCom.pdf
 file_size: 740432
 file_type: application/pdf
 learning_resource_types:

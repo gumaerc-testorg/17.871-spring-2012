@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding final project assignment
-file: /courses/17-871-political-science-laboratory-spring-2012/9364027a61e7c16f101a675c19fc4935_MIT17_871S12_Final.pdf
+file: /ol-ocw-studio-app/courses/17-871-political-science-laboratory-spring-2012/9364027a61e7c16f101a675c19fc4935_MIT17_871S12_Final.pdf
 file_size: 153009
 file_type: application/pdf
 learning_resource_types:
