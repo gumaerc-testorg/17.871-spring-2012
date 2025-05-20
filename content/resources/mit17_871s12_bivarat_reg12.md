@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding bivariate relationships.
-file: /ol-ocw-studio-app/courses/17-871-political-science-laboratory-spring-2012/5f1f6f315c9f02cf6e4fd397d707a76b_MIT17_871S12_bivarat_reg12.pdf
+file: /courses/17-871-political-science-laboratory-spring-2012/5f1f6f315c9f02cf6e4fd397d707a76b_MIT17_871S12_bivarat_reg12.pdf
 file_size: 658384
 file_type: application/pdf
 learning_resource_types:
