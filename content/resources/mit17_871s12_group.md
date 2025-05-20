@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding group projects assignment
-file: /ol-ocw-studio-app/courses/17-871-political-science-laboratory-spring-2012/d862acdc23397585cf188e185737cabc_MIT17_871S12_Group.pdf
+file: /courses/17-871-political-science-laboratory-spring-2012/d862acdc23397585cf188e185737cabc_MIT17_871S12_Group.pdf
 file_size: 619136
 file_type: application/pdf
 learning_resource_types:
