@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-871-political-science-laboratory-spring-2012/08bad3fa60aa223b730df87d6a0df32c_MIT17_871S12_STATAExerci.zip
+file: /ol-ocw-studio-app/courses/17-871-political-science-laboratory-spring-2012/08bad3fa60aa223b730df87d6a0df32c_MIT17_871S12_STATAExerci.zip
 file_size: 4514
 file_type: application/zip
 learning_resource_types:
