@@ -27,4 +27,4 @@ The information and tools provided in this section support the course assignment
 
 {{% resource_link "08bad3fa-60aa-223b-730d-f87d6a0df32c" "Introduction to STATA" %}}®{{% resource_link "08bad3fa-60aa-223b-730d-f87d6a0df32c" "exercises (ZIP)" %}} (This  ZIP file contains 3 .dta files.)
 
-{{% resource_link "b8214fea-6685-4f2a-9989-8b183cc89110" "Resources for learning STATA" %}}{{< sup "®" >}}
+[Resources for learning STATA](http://stata.com/links/resources-for-learning-stata/){{< sup "®" >}}

@@ -196,7 +196,7 @@ No readings
 {{< tdclose >}}{{< tdopen >}}
 Preliminary final project presentations and work sessions – these sessions are for you to work on your project and seek help
 {{< tdclose >}}{{< tdopen >}}
-Achen, Christopher H. *Interpreting and Using Regression*. Sage Publications, 1982. ISBN: 9780803919150. \[Preview with {{% resource_link "a1ccdc3b-70cd-4f5e-9e55-c5309b39fc84" "Google Books" %}}\]
+Achen, Christopher H. *Interpreting and Using Regression*. Sage Publications, 1982. ISBN: 9780803919150. \[Preview with [Google Books](http://books.google.com/books?id=bd82ZBsSl5IC&printsec=frontcover)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
